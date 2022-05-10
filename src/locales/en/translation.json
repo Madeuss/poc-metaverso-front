@@ -1,0 +1,19 @@
+{
+  "components": {
+    "student": {
+      "add_title": "Add Person",
+      "send": "Send",
+      "people": "People",
+      "name_label": "Name",
+      "address_label": "Address"
+    },
+    "change_language": {
+      "portuguese": "Portuguese",
+      "english": "English",
+      "spanish": "Spanish",
+      "brazil_flag": "Brasil flag",
+      "united_kingdom_flag": "United Kingdom flag",
+      "spain_flag": "Spain flag"
+    }
+  }
+}

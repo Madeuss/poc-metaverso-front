@@ -1,0 +1,19 @@
+{
+  "components": {
+    "student": {
+      "add_title": "Agregar persona",
+      "send": "Enviar",
+      "people": "Personas",
+      "name_label": "Nombre",
+      "address_label": "Dirección"
+    },
+    "change_language": {
+      "portuguese": "Portugués",
+      "english": "Inglés",
+      "spanish": "Español",
+      "brazil_flag": "Bandera de Brasil",
+      "united_kingdom_flag": "Bandera del Reino Unido",
+      "spain_flag": "Bandera de España"
+    }
+  }
+}
